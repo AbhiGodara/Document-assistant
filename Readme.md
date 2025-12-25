@@ -8,6 +8,7 @@ The RAG Document Assistant is an AI powered application that allows users to upl
 - **AI-Powered Q&A**: Ask questions based on the content of the uploaded documents.
 - **Translation Support**: Translate answers into multiple languages including Urdu, Hindi, Spanish, and French.
 - **Text-to-Speech**: Generate audio responses for the translated answers.
+- **Translate**: Get full translated document and download it.
 - **User -Friendly Interface**: Built with Streamlit for an interactive user experience.
 
 ## Installation
@@ -27,6 +28,17 @@ The RAG Document Assistant is an AI powered application that allows users to upl
 2. **Ask Questions**: Enter your questions in the provided input field.
 3. **Select Translation Options**: Choose a language for translation if needed.
 4. **Receive Answers**: View the AI-generated answers and listen to audio playback if enabled.
+
+## 🌐 Live Demo
+
+🔗 **Streamlit Live App:**  
+https://abhishek-document-assistant.streamlit.app/
+
+---
+
+## 📓 Kaggle Notebook
+🔗 **Kaggle Notebook:**  
+https://www.kaggle.com/code/abhishekgodara/document-assistant-get-answer-translate-doc
 
 ## Acknowledgments
 
